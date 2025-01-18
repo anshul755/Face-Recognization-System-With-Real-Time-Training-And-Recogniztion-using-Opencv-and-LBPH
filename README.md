@@ -1,4 +1,4 @@
-# Face-Recognization-System-With-Real-Time-Training-And-Recogniztion-using-Opencv-and-LBPH
+# Face Recognization System With Real Time Training And Recogniztion using Opencv and LBPH
 
 This project is a **Face Recognition System** that uses the **OpenCV** library to capture and recognize faces through the webcam. It supports adding new faces to the training dataset, training the model, and recognizing faces from the webcam feed in real-time.
 
